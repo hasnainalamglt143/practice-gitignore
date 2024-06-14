@@ -1,2 +1,0 @@
-ignore it by adding to .gitignore
-check again by checking if added to git
