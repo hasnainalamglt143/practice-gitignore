@@ -1,1 +1,8 @@
-/help.text/
+*.class
+*.jar
+*.pyc
+*.txt
+
+# Ignore directories
+target/
+node_modules/
