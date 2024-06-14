@@ -1,1 +1,1 @@
-check git ignore
+ignore it by adding to .gitignore
